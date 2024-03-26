@@ -1,4 +1,4 @@
-# Predictive_maintenance_ML
+# Predictive maintenance
 
 ![image](https://github.com/maevaportfolio/Predictive_maintenance_ML/assets/108234726/976d27c7-c857-44ff-9730-b0cf2d910005)
 
