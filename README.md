@@ -5,7 +5,7 @@
 
 This predictive maintenance project focuses on the analysis and interpretation of real industry data to identify potential equipment failures before they occur. By leveraging a machine learning model, this project aims to classify equipment based on their risk of failure, utilizing six key features and targeting two specific outcomes.
 
-[dataset](https://www.kaggle.com/datasets/stephanmatzka/predictive-maintenance-dataset-ai4i-2020)
+[➡️ dataset](https://www.kaggle.com/datasets/stephanmatzka/predictive-maintenance-dataset-ai4i-2020)
 
 This dataset reflects real predictive maintenance encountered in the industry with measurements from real equipment. The features description is taken directly from the dataset source.
 
